@@ -18,8 +18,6 @@ software's operations.
 ## Objectives
 * We have performed the Malware Analysis of a Crackme file using Ghidra.
 
-## Usage
-
 ### Installation 
 
 <details>
